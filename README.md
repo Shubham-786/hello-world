@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+Hi All!
+
+Shubham here, I like Python, R.
